@@ -1,0 +1,332 @@
+{
+  "source_base_path": "C:/Users/CHold/source/repos/ase-boose-assignment-Kristen153/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.AppCanvas",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.AppCanvas.yml\" sourcestartlinenumber=\"1\">Represents the drawing canvas for the BOOSE graphics environment.\nProvides drawing operations such as lines, shapes, text, and canvas management.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.AppCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.AppCommandFactory",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.AppCommandFactory.yml\" sourcestartlinenumber=\"1\">Factory class responsible for creating Command instances based on command type strings.\nValidates the command type and throws a <xref href=\"BOOSE.FactoryException\" data-throw-if-not-resolved=\"false\"></xref> for invalid commands.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.AppForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.AppForm.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.AppForm",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.AppForm.yml\" sourcestartlinenumber=\"1\">Main form for the BOOSE graphics environment application.\nHandles front facing user interactions, delegates command parsing and execution to the Factory, and updates the canvas and command log.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.BitmapManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.BitmapManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.BitmapManager",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.BitmapManager.yml\" sourcestartlinenumber=\"1\">Manages a bitmap and its associated graphics context.\nProvides functionality to create, copy, resize, and dispose of the bitmap.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.CircleCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.CircleCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands.CircleCommand",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Commands.CircleCommand.yml\" sourcestartlinenumber=\"1\">Represents a command to draw a circle on a canvas.\nValidates the radius parameter and executes the command method of the canvas object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.DrawToCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.DrawToCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands.DrawToCommand",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Commands.DrawToCommand.yml\" sourcestartlinenumber=\"1\">Represents a command to draw a line to a specified position on the canvas.\nValidates the X and Y position parameters and executes the command method of the canvas object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.MoveToCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.MoveToCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands.MoveToCommand",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Commands.MoveToCommand.yml\" sourcestartlinenumber=\"1\">Represents a command to move to a specified position on the canvas.\nValidates the X and Y position parameters and updates the position.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.PenColourCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.PenColourCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands.PenColourCommand",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Commands.PenColourCommand.yml\" sourcestartlinenumber=\"1\">Represents a command to set the drawing pen color on the canvas.\nValidates the Red, Green, and Blue color values and executes the color change.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.RectCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.RectCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands.RectCommand",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Commands.RectCommand.yml\" sourcestartlinenumber=\"1\">Represents a command to draw a rectangle on the canvas.\nValidates the width and height parameters and executes the drawing action.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.TriCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.TriCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands.TriCommand",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Commands.TriCommand.yml\" sourcestartlinenumber=\"1\">Represents a command to draw a triangle on the canvas.\nValidates the width and height parameters and executes the drawing action.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Commands.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Commands",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.IDrawable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.IDrawable.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.IDrawable",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.IDrawable.yml\" sourcestartlinenumber=\"1\">Represents an object that can be drawn on a canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Shapes.EllipseShape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Shapes.EllipseShape.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Shapes.EllipseShape",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Shapes.EllipseShape.yml\" sourcestartlinenumber=\"1\">Represents an ellipse shape with a specified radius.\nInherits from <xref href=\"BOOSEGraphicsEnvironment.Shapes.Shape\" data-throw-if-not-resolved=\"false\"></xref> and implements the Draw nethod.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Shapes.PolygonShape",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.yml\" sourcestartlinenumber=\"1\">Represents a regular polygon shape with a specified number of sides and dimensions.\nInherits from <xref href=\"BOOSEGraphicsEnvironment.Shapes.Shape\" data-throw-if-not-resolved=\"false\"></xref> and implements the drawing logic.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Shapes.RectangleShape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Shapes.RectangleShape.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Shapes.RectangleShape",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Shapes.RectangleShape.yml\" sourcestartlinenumber=\"1\">Represents a rectangle shape with specified width and height.\nInherits from <xref href=\"BOOSEGraphicsEnvironment.Shapes.Shape\" data-throw-if-not-resolved=\"false\"></xref> and implements the drawing logic.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Shapes.Shape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Shapes.Shape.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Shapes.Shape",
+      "Summary": "<p sourcefile=\"api/BOOSEGraphicsEnvironment.Shapes.Shape.yml\" sourcestartlinenumber=\"1\">Represents the base class for drawable shapes in the BOOSE graphics environment.\nProvides common properties for width and height and defines the abstract Draw method.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.Shapes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.Shapes.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment.Shapes",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEGraphicsEnvironment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEGraphicsEnvironment.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEGraphicsEnvironment",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
