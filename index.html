@@ -78,6 +78,7 @@ created by: Kristen Holden - 2025/2026</p>
 <h2 id="classes">Classes</h2>
 <ul>
 <li><strong>AppCanvas</strong> - The main canvas class for drawing shapes and text.</li>
+<li><strong>AppForm</strong> - The main application form that hosts the canvas and user interface.</li>
 <li><strong>BitmapManager</strong> - Manages the underlying bitmap and graphics context.</li>
 <li><strong>Shapes</strong> (namespace <code>BOOSEGraphicsEnvironment.Shapes</code>) - Abstract and concrete classes for shapes:
 <ul>
@@ -102,6 +103,30 @@ created by: Kristen Holden - 2025/2026</p>
 <h2 id="interfaces">Interfaces</h2>
 <ul>
 <li><strong>IDrawable</strong> � Interface for objects that can be drawn on a canvas. Implementing classes must define a <code>Draw</code> method that takes a <code>Graphics</code> context, <code>Pen</code>, and coordinates.</li>
+</ul>
+<h2 id="tests">Tests</h2>
+<ul>
+<li><strong>AppCanvasTests</strong> � Tests bitmap creation, resizing, pen colour, movement, drawing shapes, writing text, clearing, resetting, and disposing.</li>
+<li><strong>AppFormTests</strong> � Tests form initialisation and canvas integration.</li>
+<li><strong>CommandsTests</strong> (namespace <code>AppTest.CommandsTests</code>) � Tests for command classes:
+<ul>
+<li><code>MoveToCommandTests</code> � Tests constructors, parameter checking, and execution with/without a canvas.</li>
+<li><code>DrawToCommandTests</code> � Tests constructors, parameter checking, and execution with/without a canvas.</li>
+<li><code>PenCommandTests</code> � Tests constructors, parameter checking, and execution without a canvas.</li>
+<li><code>RectCommandTests</code> � Tests constructors, parameter checking, and execution without a canvas.</li>
+<li><code>TriCommandTests</code> � Tests constructors, parameter checking, and execution without a canvas.</li>
+<li><code>CircleCommandTests</code> � Tests constructors, parameter checking, and execution without a canvas.</li>
+</ul>
+</li>
+<li><strong>ShapesTests</strong> (namespace <code>AppTest.ShapesTests</code>) � Tests for shape classes:
+<ul>
+<li><code>EllipseShapeTests</code> � Tests constructors and drawing functionality.</li>
+<li><code>RectangleShapeTests</code> � Tests constructors and drawing functionality.</li>
+<li><code>PolygonShapeTests</code> � Tests constructors and drawing functionality.</li>
+</ul>
+</li>
+<li><strong>BitmapManagerTests</strong> � Tests bitmap creation, resizing, and disposing.</li>
+<li><strong>AppCommandFactoryTests</strong> � Tests command creation and invalid command handling.</li>
 </ul>
 <hr>
 
