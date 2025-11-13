@@ -1724,6 +1724,72 @@ setting up the canvas, parser, runtime, and command factory.</p>
 </h2>
 
 
+  <a id="BOOSEGraphicsEnvironment_AppForm_AppendCommandLog_" data-uid="BOOSEGraphicsEnvironment.AppForm.AppendCommandLog*"></a>
+
+  <h3 id="BOOSEGraphicsEnvironment_AppForm_AppendCommandLog_System_String___" data-uid="BOOSEGraphicsEnvironment.AppForm.AppendCommandLog(System.String[])">
+  AppendCommandLog(string[])
+  <a class="header-action link-secondary" title="View source" href="https://github.com/ASE2025repos/ase-boose-assignment-Kristen153/blob/main/BOOSEGraphicsEnvironment/AppForm.cs/#L113"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"><p>Appends the specified lines to the command log.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AppendCommandLog(string[] lines)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>lines</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>[]</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="BOOSEGraphicsEnvironment_AppForm_CanvasDisplay_Paint_" data-uid="BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint*"></a>
+
+  <h3 id="BOOSEGraphicsEnvironment_AppForm_CanvasDisplay_Paint_System_Object_System_Windows_Forms_PaintEventArgs_" data-uid="BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+  CanvasDisplay_Paint(object, PaintEventArgs)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/ASE2025repos/ase-boose-assignment-Kristen153/blob/main/BOOSEGraphicsEnvironment/AppForm.cs/#L51"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"><p>Draws the current canvas bitmap.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void CanvasDisplay_Paint(object sender, PaintEventArgs e)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>sender</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></dt>
+    <dd></dd>
+    <dt><code>e</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.windows.forms.painteventargs">PaintEventArgs</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
   <a id="BOOSEGraphicsEnvironment_AppForm_Dispose_" data-uid="BOOSEGraphicsEnvironment.AppForm.Dispose*"></a>
 
   <h3 id="BOOSEGraphicsEnvironment_AppForm_Dispose_System_Boolean_" data-uid="BOOSEGraphicsEnvironment.AppForm.Dispose(System.Boolean)">
@@ -1744,6 +1810,76 @@ setting up the canvas, parser, runtime, and command factory.</p>
     <dt><code>disposing</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></dt>
     <dd><p>true if managed resources should be disposed; otherwise, false.</p>
 </dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="BOOSEGraphicsEnvironment_AppForm_GraphicsForm_Load_" data-uid="BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load*"></a>
+
+  <h3 id="BOOSEGraphicsEnvironment_AppForm_GraphicsForm_Load_System_Object_System_EventArgs_" data-uid="BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load(System.Object,System.EventArgs)">
+  GraphicsForm_Load(object, EventArgs)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/ASE2025repos/ase-boose-assignment-Kristen153/blob/main/BOOSEGraphicsEnvironment/AppForm.cs/#L41"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"><p>Refreshes the canvas display after the form loads.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GraphicsForm_Load(object sender, EventArgs e)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>sender</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></dt>
+    <dd></dd>
+    <dt><code>e</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.eventargs">EventArgs</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="BOOSEGraphicsEnvironment_AppForm_RunButton_Click_" data-uid="BOOSEGraphicsEnvironment.AppForm.RunButton_Click*"></a>
+
+  <h3 id="BOOSEGraphicsEnvironment_AppForm_RunButton_Click_System_Object_System_EventArgs_" data-uid="BOOSEGraphicsEnvironment.AppForm.RunButton_Click(System.Object,System.EventArgs)">
+  RunButton_Click(object, EventArgs)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/ASE2025repos/ase-boose-assignment-Kristen153/blob/main/BOOSEGraphicsEnvironment/AppForm.cs/#L61"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"><p>Handles the Run button click.
+Sends the user's input to the Parser, which delegates to the Factory.
+Updates the canvas and command log.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RunButton_Click(object sender, EventArgs e)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>sender</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></dt>
+    <dd></dd>
+    <dt><code>e</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.eventargs">EventArgs</a></dt>
+    <dd></dd>
   </dl>
 
 

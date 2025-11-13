@@ -1393,6 +1393,38 @@ references:
   fullName.vb: BOOSEGraphicsEnvironment.AppForm.New
   nameWithType: AppForm.AppForm
   nameWithType.vb: AppForm.New
+- uid: BOOSEGraphicsEnvironment.AppForm.AppendCommandLog(System.String[])
+  name: AppendCommandLog(string[])
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_AppendCommandLog_System_String___
+  commentId: M:BOOSEGraphicsEnvironment.AppForm.AppendCommandLog(System.String[])
+  name.vb: AppendCommandLog(String())
+  fullName: BOOSEGraphicsEnvironment.AppForm.AppendCommandLog(string[])
+  fullName.vb: BOOSEGraphicsEnvironment.AppForm.AppendCommandLog(String())
+  nameWithType: AppForm.AppendCommandLog(string[])
+  nameWithType.vb: AppForm.AppendCommandLog(String())
+- uid: BOOSEGraphicsEnvironment.AppForm.AppendCommandLog*
+  name: AppendCommandLog
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_AppendCommandLog_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppForm.AppendCommandLog
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppForm.AppendCommandLog
+  nameWithType: AppForm.AppendCommandLog
+- uid: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint(System.Object,System.Windows.Forms.PaintEventArgs)
+  name: CanvasDisplay_Paint(object, PaintEventArgs)
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_CanvasDisplay_Paint_System_Object_System_Windows_Forms_PaintEventArgs_
+  commentId: M:BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint(System.Object,System.Windows.Forms.PaintEventArgs)
+  name.vb: CanvasDisplay_Paint(Object, PaintEventArgs)
+  fullName: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint(object, System.Windows.Forms.PaintEventArgs)
+  fullName.vb: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint(Object, System.Windows.Forms.PaintEventArgs)
+  nameWithType: AppForm.CanvasDisplay_Paint(object, PaintEventArgs)
+  nameWithType.vb: AppForm.CanvasDisplay_Paint(Object, PaintEventArgs)
+- uid: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint*
+  name: CanvasDisplay_Paint
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_CanvasDisplay_Paint_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint
+  nameWithType: AppForm.CanvasDisplay_Paint
 - uid: BOOSEGraphicsEnvironment.AppForm.Dispose(System.Boolean)
   name: Dispose(bool)
   href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_Dispose_System_Boolean_
@@ -1409,6 +1441,38 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppForm.Dispose
   nameWithType: AppForm.Dispose
+- uid: BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load(System.Object,System.EventArgs)
+  name: GraphicsForm_Load(object, EventArgs)
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_GraphicsForm_Load_System_Object_System_EventArgs_
+  commentId: M:BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load(System.Object,System.EventArgs)
+  name.vb: GraphicsForm_Load(Object, EventArgs)
+  fullName: BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load(object, System.EventArgs)
+  fullName.vb: BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load(Object, System.EventArgs)
+  nameWithType: AppForm.GraphicsForm_Load(object, EventArgs)
+  nameWithType.vb: AppForm.GraphicsForm_Load(Object, EventArgs)
+- uid: BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load*
+  name: GraphicsForm_Load
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_GraphicsForm_Load_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load
+  nameWithType: AppForm.GraphicsForm_Load
+- uid: BOOSEGraphicsEnvironment.AppForm.RunButton_Click(System.Object,System.EventArgs)
+  name: RunButton_Click(object, EventArgs)
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_RunButton_Click_System_Object_System_EventArgs_
+  commentId: M:BOOSEGraphicsEnvironment.AppForm.RunButton_Click(System.Object,System.EventArgs)
+  name.vb: RunButton_Click(Object, EventArgs)
+  fullName: BOOSEGraphicsEnvironment.AppForm.RunButton_Click(object, System.EventArgs)
+  fullName.vb: BOOSEGraphicsEnvironment.AppForm.RunButton_Click(Object, System.EventArgs)
+  nameWithType: AppForm.RunButton_Click(object, EventArgs)
+  nameWithType.vb: AppForm.RunButton_Click(Object, EventArgs)
+- uid: BOOSEGraphicsEnvironment.AppForm.RunButton_Click*
+  name: RunButton_Click
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_RunButton_Click_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppForm.RunButton_Click
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppForm.RunButton_Click
+  nameWithType: AppForm.RunButton_Click
 - uid: BOOSEGraphicsEnvironment.BitmapManager
   name: BitmapManager
   href: api/BOOSEGraphicsEnvironment.BitmapManager.html
