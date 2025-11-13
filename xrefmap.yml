@@ -39,6 +39,24 @@ references:
   isSpec: "True"
   fullName: AppTest.AppCanvasTests.Clear_DoesNotThrow
   nameWithType: AppCanvasTests.Clear_DoesNotThrow
+- uid: AppTest.AppCanvasTests.ColourB
+  name: ColourB
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_ColourB
+  commentId: F:AppTest.AppCanvasTests.ColourB
+  fullName: AppTest.AppCanvasTests.ColourB
+  nameWithType: AppCanvasTests.ColourB
+- uid: AppTest.AppCanvasTests.ColourG
+  name: ColourG
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_ColourG
+  commentId: F:AppTest.AppCanvasTests.ColourG
+  fullName: AppTest.AppCanvasTests.ColourG
+  nameWithType: AppCanvasTests.ColourG
+- uid: AppTest.AppCanvasTests.ColourR
+  name: ColourR
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_ColourR
+  commentId: F:AppTest.AppCanvasTests.ColourR
+  fullName: AppTest.AppCanvasTests.ColourR
+  nameWithType: AppCanvasTests.ColourR
 - uid: AppTest.AppCanvasTests.Constructor_InitializesBitmapAndDefaultPosition
   name: Constructor_InitializesBitmapAndDefaultPosition()
   href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_Constructor_InitializesBitmapAndDefaultPosition
@@ -78,6 +96,30 @@ references:
   isSpec: "True"
   fullName: AppTest.AppCanvasTests.DrawTo_UpdatesPosition
   nameWithType: AppCanvasTests.DrawTo_UpdatesPosition
+- uid: AppTest.AppCanvasTests.EndX
+  name: EndX
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_EndX
+  commentId: F:AppTest.AppCanvasTests.EndX
+  fullName: AppTest.AppCanvasTests.EndX
+  nameWithType: AppCanvasTests.EndX
+- uid: AppTest.AppCanvasTests.EndY
+  name: EndY
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_EndY
+  commentId: F:AppTest.AppCanvasTests.EndY
+  fullName: AppTest.AppCanvasTests.EndY
+  nameWithType: AppCanvasTests.EndY
+- uid: AppTest.AppCanvasTests.InitialHeight
+  name: InitialHeight
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_InitialHeight
+  commentId: F:AppTest.AppCanvasTests.InitialHeight
+  fullName: AppTest.AppCanvasTests.InitialHeight
+  nameWithType: AppCanvasTests.InitialHeight
+- uid: AppTest.AppCanvasTests.InitialWidth
+  name: InitialWidth
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_InitialWidth
+  commentId: F:AppTest.AppCanvasTests.InitialWidth
+  fullName: AppTest.AppCanvasTests.InitialWidth
+  nameWithType: AppCanvasTests.InitialWidth
 - uid: AppTest.AppCanvasTests.MoveTo_UpdatesPosition
   name: MoveTo_UpdatesPosition()
   href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_MoveTo_UpdatesPosition
@@ -91,6 +133,24 @@ references:
   isSpec: "True"
   fullName: AppTest.AppCanvasTests.MoveTo_UpdatesPosition
   nameWithType: AppCanvasTests.MoveTo_UpdatesPosition
+- uid: AppTest.AppCanvasTests.Radius
+  name: Radius
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_Radius
+  commentId: F:AppTest.AppCanvasTests.Radius
+  fullName: AppTest.AppCanvasTests.Radius
+  nameWithType: AppCanvasTests.Radius
+- uid: AppTest.AppCanvasTests.RectHeight
+  name: RectHeight
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_RectHeight
+  commentId: F:AppTest.AppCanvasTests.RectHeight
+  fullName: AppTest.AppCanvasTests.RectHeight
+  nameWithType: AppCanvasTests.RectHeight
+- uid: AppTest.AppCanvasTests.RectWidth
+  name: RectWidth
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_RectWidth
+  commentId: F:AppTest.AppCanvasTests.RectWidth
+  fullName: AppTest.AppCanvasTests.RectWidth
+  nameWithType: AppCanvasTests.RectWidth
 - uid: AppTest.AppCanvasTests.Rect_DoesNotChangePosition
   name: Rect_DoesNotChangePosition()
   href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_Rect_DoesNotChangePosition
@@ -117,6 +177,18 @@ references:
   isSpec: "True"
   fullName: AppTest.AppCanvasTests.Reset_SetsPositionToDefaults
   nameWithType: AppCanvasTests.Reset_SetsPositionToDefaults
+- uid: AppTest.AppCanvasTests.ResizedHeight
+  name: ResizedHeight
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_ResizedHeight
+  commentId: F:AppTest.AppCanvasTests.ResizedHeight
+  fullName: AppTest.AppCanvasTests.ResizedHeight
+  nameWithType: AppCanvasTests.ResizedHeight
+- uid: AppTest.AppCanvasTests.ResizedWidth
+  name: ResizedWidth
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_ResizedWidth
+  commentId: F:AppTest.AppCanvasTests.ResizedWidth
+  fullName: AppTest.AppCanvasTests.ResizedWidth
+  nameWithType: AppCanvasTests.ResizedWidth
 - uid: AppTest.AppCanvasTests.SetColour_UpdatesPenColourProperty
   name: SetColour_UpdatesPenColourProperty()
   href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_SetColour_UpdatesPenColourProperty
@@ -143,6 +215,30 @@ references:
   isSpec: "True"
   fullName: AppTest.AppCanvasTests.Set_ResizesBitmap
   nameWithType: AppCanvasTests.Set_ResizesBitmap
+- uid: AppTest.AppCanvasTests.StartX
+  name: StartX
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_StartX
+  commentId: F:AppTest.AppCanvasTests.StartX
+  fullName: AppTest.AppCanvasTests.StartX
+  nameWithType: AppCanvasTests.StartX
+- uid: AppTest.AppCanvasTests.StartY
+  name: StartY
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_StartY
+  commentId: F:AppTest.AppCanvasTests.StartY
+  fullName: AppTest.AppCanvasTests.StartY
+  nameWithType: AppCanvasTests.StartY
+- uid: AppTest.AppCanvasTests.TriHeight
+  name: TriHeight
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_TriHeight
+  commentId: F:AppTest.AppCanvasTests.TriHeight
+  fullName: AppTest.AppCanvasTests.TriHeight
+  nameWithType: AppCanvasTests.TriHeight
+- uid: AppTest.AppCanvasTests.TriWidth
+  name: TriWidth
+  href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_TriWidth
+  commentId: F:AppTest.AppCanvasTests.TriWidth
+  fullName: AppTest.AppCanvasTests.TriWidth
+  nameWithType: AppCanvasTests.TriWidth
 - uid: AppTest.AppCanvasTests.Tri_DoesNotChangePosition
   name: Tri_DoesNotChangePosition()
   href: api/AppTest.AppCanvasTests.html#AppTest_AppCanvasTests_Tri_DoesNotChangePosition
@@ -246,6 +342,12 @@ references:
   isSpec: "True"
   fullName: AppTest.AppCommandFactoryTests.MakeCommand_UnknownCommand_ThrowsFactoryException
   nameWithType: AppCommandFactoryTests.MakeCommand_UnknownCommand_ThrowsFactoryException
+- uid: AppTest.AppCommandFactoryTests.factory
+  name: factory
+  href: api/AppTest.AppCommandFactoryTests.html#AppTest_AppCommandFactoryTests_factory
+  commentId: F:AppTest.AppCommandFactoryTests.factory
+  fullName: AppTest.AppCommandFactoryTests.factory
+  nameWithType: AppCommandFactoryTests.factory
 - uid: AppTest.AppFormTests
   name: AppFormTests
   href: api/AppTest.AppFormTests.html
@@ -278,6 +380,51 @@ references:
   isSpec: "True"
   fullName: AppTest.AppFormTests.Constructor_InitializesControls
   nameWithType: AppFormTests.Constructor_InitializesControls
+- uid: AppTest.AppFormTests.GetPrivateField(System.Object,System.String)
+  name: GetPrivateField(object, string)
+  href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_GetPrivateField_System_Object_System_String_
+  commentId: M:AppTest.AppFormTests.GetPrivateField(System.Object,System.String)
+  name.vb: GetPrivateField(Object, String)
+  fullName: AppTest.AppFormTests.GetPrivateField(object, string)
+  fullName.vb: AppTest.AppFormTests.GetPrivateField(Object, String)
+  nameWithType: AppFormTests.GetPrivateField(object, string)
+  nameWithType.vb: AppFormTests.GetPrivateField(Object, String)
+- uid: AppTest.AppFormTests.GetPrivateField*
+  name: GetPrivateField
+  href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_GetPrivateField_
+  commentId: Overload:AppTest.AppFormTests.GetPrivateField
+  isSpec: "True"
+  fullName: AppTest.AppFormTests.GetPrivateField
+  nameWithType: AppFormTests.GetPrivateField
+- uid: AppTest.AppFormTests.GetPrivateMethod(System.Object,System.String)
+  name: GetPrivateMethod(object, string)
+  href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_GetPrivateMethod_System_Object_System_String_
+  commentId: M:AppTest.AppFormTests.GetPrivateMethod(System.Object,System.String)
+  name.vb: GetPrivateMethod(Object, String)
+  fullName: AppTest.AppFormTests.GetPrivateMethod(object, string)
+  fullName.vb: AppTest.AppFormTests.GetPrivateMethod(Object, String)
+  nameWithType: AppFormTests.GetPrivateMethod(object, string)
+  nameWithType.vb: AppFormTests.GetPrivateMethod(Object, String)
+- uid: AppTest.AppFormTests.GetPrivateMethod*
+  name: GetPrivateMethod
+  href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_GetPrivateMethod_
+  commentId: Overload:AppTest.AppFormTests.GetPrivateMethod
+  isSpec: "True"
+  fullName: AppTest.AppFormTests.GetPrivateMethod
+  nameWithType: AppFormTests.GetPrivateMethod
+- uid: AppTest.AppFormTests.InstanceNonPublic
+  name: InstanceNonPublic
+  href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_InstanceNonPublic
+  commentId: P:AppTest.AppFormTests.InstanceNonPublic
+  fullName: AppTest.AppFormTests.InstanceNonPublic
+  nameWithType: AppFormTests.InstanceNonPublic
+- uid: AppTest.AppFormTests.InstanceNonPublic*
+  name: InstanceNonPublic
+  href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_InstanceNonPublic_
+  commentId: Overload:AppTest.AppFormTests.InstanceNonPublic
+  isSpec: "True"
+  fullName: AppTest.AppFormTests.InstanceNonPublic
+  nameWithType: AppFormTests.InstanceNonPublic
 - uid: AppTest.AppFormTests.RunButton_Click_MultipleMoveto_UpdatesCanvasPosition
   name: RunButton_Click_MultipleMoveto_UpdatesCanvasPosition()
   href: api/AppTest.AppFormTests.html#AppTest_AppFormTests_RunButton_Click_MultipleMoveto_UpdatesCanvasPosition
@@ -375,6 +522,30 @@ references:
   isSpec: "True"
   fullName: AppTest.BitmapManagerTests.Dispose_IsIdempotent_DoesNotThrowWhenCalledMultipleTimes
   nameWithType: BitmapManagerTests.Dispose_IsIdempotent_DoesNotThrowWhenCalledMultipleTimes
+- uid: AppTest.BitmapManagerTests.InitialHeight
+  name: InitialHeight
+  href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_InitialHeight
+  commentId: F:AppTest.BitmapManagerTests.InitialHeight
+  fullName: AppTest.BitmapManagerTests.InitialHeight
+  nameWithType: BitmapManagerTests.InitialHeight
+- uid: AppTest.BitmapManagerTests.InitialWidth
+  name: InitialWidth
+  href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_InitialWidth
+  commentId: F:AppTest.BitmapManagerTests.InitialWidth
+  fullName: AppTest.BitmapManagerTests.InitialWidth
+  nameWithType: BitmapManagerTests.InitialWidth
+- uid: AppTest.BitmapManagerTests.NewHeight
+  name: NewHeight
+  href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_NewHeight
+  commentId: F:AppTest.BitmapManagerTests.NewHeight
+  fullName: AppTest.BitmapManagerTests.NewHeight
+  nameWithType: BitmapManagerTests.NewHeight
+- uid: AppTest.BitmapManagerTests.NewWidth
+  name: NewWidth
+  href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_NewWidth
+  commentId: F:AppTest.BitmapManagerTests.NewWidth
+  fullName: AppTest.BitmapManagerTests.NewWidth
+  nameWithType: BitmapManagerTests.NewWidth
 - uid: AppTest.BitmapManagerTests.Resize_ChangesBitmapDimensions_AndCreatesGraphics
   name: Resize_ChangesBitmapDimensions_AndCreatesGraphics()
   href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_Resize_ChangesBitmapDimensions_AndCreatesGraphics
@@ -388,6 +559,18 @@ references:
   isSpec: "True"
   fullName: AppTest.BitmapManagerTests.Resize_ChangesBitmapDimensions_AndCreatesGraphics
   nameWithType: BitmapManagerTests.Resize_ChangesBitmapDimensions_AndCreatesGraphics
+- uid: AppTest.BitmapManagerTests.TestColor1
+  name: TestColor1
+  href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_TestColor1
+  commentId: F:AppTest.BitmapManagerTests.TestColor1
+  fullName: AppTest.BitmapManagerTests.TestColor1
+  nameWithType: BitmapManagerTests.TestColor1
+- uid: AppTest.BitmapManagerTests.TestColor2
+  name: TestColor2
+  href: api/AppTest.BitmapManagerTests.html#AppTest_BitmapManagerTests_TestColor2
+  commentId: F:AppTest.BitmapManagerTests.TestColor2
+  fullName: AppTest.BitmapManagerTests.TestColor2
+  nameWithType: BitmapManagerTests.TestColor2
 - uid: AppTest.CommandsTests
   name: AppTest.CommandsTests
   href: api/AppTest.CommandsTests.html
@@ -481,6 +664,73 @@ references:
   isSpec: "True"
   fullName: AppTest.CommandsTests.CircleCommandTests.Execute_WithoutCanvas_ThrowsCommandException
   nameWithType: CircleCommandTests.Execute_WithoutCanvas_ThrowsCommandException
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas
+  name: CircleCommandTests.MockCanvas
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html
+  commentId: T:AppTest.CommandsTests.CircleCommandTests.MockCanvas
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas
+  nameWithType: CircleCommandTests.MockCanvas
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.#ctor
+  name: MockCanvas()
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas__ctor
+  commentId: M:AppTest.CommandsTests.CircleCommandTests.MockCanvas.#ctor
+  name.vb: New()
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.MockCanvas()
+  fullName.vb: AppTest.CommandsTests.CircleCommandTests.MockCanvas.New()
+  nameWithType: CircleCommandTests.MockCanvas.MockCanvas()
+  nameWithType.vb: CircleCommandTests.MockCanvas.New()
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.#ctor*
+  name: MockCanvas
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas__ctor_
+  commentId: Overload:AppTest.CommandsTests.CircleCommandTests.MockCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.MockCanvas
+  fullName.vb: AppTest.CommandsTests.CircleCommandTests.MockCanvas.New
+  nameWithType: CircleCommandTests.MockCanvas.MockCanvas
+  nameWithType.vb: CircleCommandTests.MockCanvas.New
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle(int, bool)
+  fullName.vb: AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle(Integer, Boolean)
+  nameWithType: CircleCommandTests.MockCanvas.Circle(int, bool)
+  nameWithType.vb: CircleCommandTests.MockCanvas.Circle(Integer, Boolean)
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle*
+  name: Circle
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas_Circle_
+  commentId: Overload:AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.Circle
+  nameWithType: CircleCommandTests.MockCanvas.Circle
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.CircleCalled
+  name: CircleCalled
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas_CircleCalled
+  commentId: P:AppTest.CommandsTests.CircleCommandTests.MockCanvas.CircleCalled
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.CircleCalled
+  nameWithType: CircleCommandTests.MockCanvas.CircleCalled
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.CircleCalled*
+  name: CircleCalled
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas_CircleCalled_
+  commentId: Overload:AppTest.CommandsTests.CircleCommandTests.MockCanvas.CircleCalled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.CircleCalled
+  nameWithType: CircleCommandTests.MockCanvas.CircleCalled
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.LastRadius
+  name: LastRadius
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas_LastRadius
+  commentId: P:AppTest.CommandsTests.CircleCommandTests.MockCanvas.LastRadius
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.LastRadius
+  nameWithType: CircleCommandTests.MockCanvas.LastRadius
+- uid: AppTest.CommandsTests.CircleCommandTests.MockCanvas.LastRadius*
+  name: LastRadius
+  href: api/AppTest.CommandsTests.CircleCommandTests.MockCanvas.html#AppTest_CommandsTests_CircleCommandTests_MockCanvas_LastRadius_
+  commentId: Overload:AppTest.CommandsTests.CircleCommandTests.MockCanvas.LastRadius
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.CircleCommandTests.MockCanvas.LastRadius
+  nameWithType: CircleCommandTests.MockCanvas.LastRadius
 - uid: AppTest.CommandsTests.DrawToCommandTests
   name: DrawToCommandTests
   href: api/AppTest.CommandsTests.DrawToCommandTests.html
@@ -581,6 +831,67 @@ references:
   isSpec: "True"
   fullName: AppTest.CommandsTests.DrawToCommandTests.Execute_WithoutCanvas_ThrowsCommandException
   nameWithType: DrawToCommandTests.Execute_WithoutCanvas_ThrowsCommandException
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas
+  name: DrawToCommandTests.MockCanvas
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html
+  commentId: T:AppTest.CommandsTests.DrawToCommandTests.MockCanvas
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas
+  nameWithType: DrawToCommandTests.MockCanvas
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo(int, int)
+  fullName.vb: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo(Integer, Integer)
+  nameWithType: DrawToCommandTests.MockCanvas.DrawTo(int, int)
+  nameWithType.vb: DrawToCommandTests.MockCanvas.DrawTo(Integer, Integer)
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo*
+  name: DrawTo
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_DrawTo_
+  commentId: Overload:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawTo
+  nameWithType: DrawToCommandTests.MockCanvas.DrawTo
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawToCalled
+  name: DrawToCalled
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_DrawToCalled
+  commentId: P:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawToCalled
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawToCalled
+  nameWithType: DrawToCommandTests.MockCanvas.DrawToCalled
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawToCalled*
+  name: DrawToCalled
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_DrawToCalled_
+  commentId: Overload:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawToCalled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.DrawToCalled
+  nameWithType: DrawToCommandTests.MockCanvas.DrawToCalled
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastX
+  name: LastX
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_LastX
+  commentId: P:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastX
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastX
+  nameWithType: DrawToCommandTests.MockCanvas.LastX
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastX*
+  name: LastX
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_LastX_
+  commentId: Overload:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastX
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastX
+  nameWithType: DrawToCommandTests.MockCanvas.LastX
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastY
+  name: LastY
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_LastY
+  commentId: P:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastY
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastY
+  nameWithType: DrawToCommandTests.MockCanvas.LastY
+- uid: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastY*
+  name: LastY
+  href: api/AppTest.CommandsTests.DrawToCommandTests.MockCanvas.html#AppTest_CommandsTests_DrawToCommandTests_MockCanvas_LastY_
+  commentId: Overload:AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastY
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.DrawToCommandTests.MockCanvas.LastY
+  nameWithType: DrawToCommandTests.MockCanvas.LastY
 - uid: AppTest.CommandsTests.MoveToCommandTests
   name: MoveToCommandTests
   href: api/AppTest.CommandsTests.MoveToCommandTests.html
@@ -681,6 +992,67 @@ references:
   isSpec: "True"
   fullName: AppTest.CommandsTests.MoveToCommandTests.Execute_WithoutCanvas_ThrowsCommandException
   nameWithType: MoveToCommandTests.Execute_WithoutCanvas_ThrowsCommandException
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas
+  name: MoveToCommandTests.MockCanvas
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html
+  commentId: T:AppTest.CommandsTests.MoveToCommandTests.MockCanvas
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas
+  nameWithType: MoveToCommandTests.MockCanvas
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastX
+  name: LastX
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_LastX
+  commentId: P:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastX
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastX
+  nameWithType: MoveToCommandTests.MockCanvas.LastX
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastX*
+  name: LastX
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_LastX_
+  commentId: Overload:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastX
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastX
+  nameWithType: MoveToCommandTests.MockCanvas.LastX
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastY
+  name: LastY
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_LastY
+  commentId: P:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastY
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastY
+  nameWithType: MoveToCommandTests.MockCanvas.LastY
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastY*
+  name: LastY
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_LastY_
+  commentId: Overload:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastY
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.LastY
+  nameWithType: MoveToCommandTests.MockCanvas.LastY
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo(int, int)
+  fullName.vb: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo(Integer, Integer)
+  nameWithType: MoveToCommandTests.MockCanvas.MoveTo(int, int)
+  nameWithType.vb: MoveToCommandTests.MockCanvas.MoveTo(Integer, Integer)
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo*
+  name: MoveTo
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_MoveTo_
+  commentId: Overload:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveTo
+  nameWithType: MoveToCommandTests.MockCanvas.MoveTo
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveToCalled
+  name: MoveToCalled
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_MoveToCalled
+  commentId: P:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveToCalled
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveToCalled
+  nameWithType: MoveToCommandTests.MockCanvas.MoveToCalled
+- uid: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveToCalled*
+  name: MoveToCalled
+  href: api/AppTest.CommandsTests.MoveToCommandTests.MockCanvas.html#AppTest_CommandsTests_MoveToCommandTests_MockCanvas_MoveToCalled_
+  commentId: Overload:AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveToCalled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.MoveToCommandTests.MockCanvas.MoveToCalled
+  nameWithType: MoveToCommandTests.MockCanvas.MoveToCalled
 - uid: AppTest.CommandsTests.PenCommandTests
   name: PenCommandTests
   href: api/AppTest.CommandsTests.PenCommandTests.html
@@ -781,6 +1153,80 @@ references:
   isSpec: "True"
   fullName: AppTest.CommandsTests.PenCommandTests.Execute_WithoutCanvas_ThrowsCommandException
   nameWithType: PenCommandTests.Execute_WithoutCanvas_ThrowsCommandException
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas
+  name: PenCommandTests.MockCanvas
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html
+  commentId: T:AppTest.CommandsTests.PenCommandTests.MockCanvas
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas
+  nameWithType: PenCommandTests.MockCanvas
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastB
+  name: LastB
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_LastB
+  commentId: P:AppTest.CommandsTests.PenCommandTests.MockCanvas.LastB
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastB
+  nameWithType: PenCommandTests.MockCanvas.LastB
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastB*
+  name: LastB
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_LastB_
+  commentId: Overload:AppTest.CommandsTests.PenCommandTests.MockCanvas.LastB
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastB
+  nameWithType: PenCommandTests.MockCanvas.LastB
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastG
+  name: LastG
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_LastG
+  commentId: P:AppTest.CommandsTests.PenCommandTests.MockCanvas.LastG
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastG
+  nameWithType: PenCommandTests.MockCanvas.LastG
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastG*
+  name: LastG
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_LastG_
+  commentId: Overload:AppTest.CommandsTests.PenCommandTests.MockCanvas.LastG
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastG
+  nameWithType: PenCommandTests.MockCanvas.LastG
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastR
+  name: LastR
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_LastR
+  commentId: P:AppTest.CommandsTests.PenCommandTests.MockCanvas.LastR
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastR
+  nameWithType: PenCommandTests.MockCanvas.LastR
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastR*
+  name: LastR
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_LastR_
+  commentId: Overload:AppTest.CommandsTests.PenCommandTests.MockCanvas.LastR
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.LastR
+  nameWithType: PenCommandTests.MockCanvas.LastR
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour(int, int, int)
+  fullName.vb: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: PenCommandTests.MockCanvas.SetColour(int, int, int)
+  nameWithType.vb: PenCommandTests.MockCanvas.SetColour(Integer, Integer, Integer)
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour*
+  name: SetColour
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_SetColour_
+  commentId: Overload:AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColour
+  nameWithType: PenCommandTests.MockCanvas.SetColour
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColourCalled
+  name: SetColourCalled
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_SetColourCalled
+  commentId: P:AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColourCalled
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColourCalled
+  nameWithType: PenCommandTests.MockCanvas.SetColourCalled
+- uid: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColourCalled*
+  name: SetColourCalled
+  href: api/AppTest.CommandsTests.PenCommandTests.MockCanvas.html#AppTest_CommandsTests_PenCommandTests_MockCanvas_SetColourCalled_
+  commentId: Overload:AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColourCalled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.PenCommandTests.MockCanvas.SetColourCalled
+  nameWithType: PenCommandTests.MockCanvas.SetColourCalled
 - uid: AppTest.CommandsTests.RectCommandTests
   name: RectCommandTests
   href: api/AppTest.CommandsTests.RectCommandTests.html
@@ -881,6 +1327,80 @@ references:
   isSpec: "True"
   fullName: AppTest.CommandsTests.RectCommandTests.Execute_WithoutCanvas_ThrowsCommandException
   nameWithType: RectCommandTests.Execute_WithoutCanvas_ThrowsCommandException
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas
+  name: RectCommandTests.MockCanvas
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html
+  commentId: T:AppTest.CommandsTests.RectCommandTests.MockCanvas
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas
+  nameWithType: RectCommandTests.MockCanvas
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastFilled
+  name: LastFilled
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_LastFilled
+  commentId: P:AppTest.CommandsTests.RectCommandTests.MockCanvas.LastFilled
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastFilled
+  nameWithType: RectCommandTests.MockCanvas.LastFilled
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastFilled*
+  name: LastFilled
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_LastFilled_
+  commentId: Overload:AppTest.CommandsTests.RectCommandTests.MockCanvas.LastFilled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastFilled
+  nameWithType: RectCommandTests.MockCanvas.LastFilled
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastHeight
+  name: LastHeight
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_LastHeight
+  commentId: P:AppTest.CommandsTests.RectCommandTests.MockCanvas.LastHeight
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastHeight
+  nameWithType: RectCommandTests.MockCanvas.LastHeight
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastHeight*
+  name: LastHeight
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_LastHeight_
+  commentId: Overload:AppTest.CommandsTests.RectCommandTests.MockCanvas.LastHeight
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastHeight
+  nameWithType: RectCommandTests.MockCanvas.LastHeight
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastWidth
+  name: LastWidth
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_LastWidth
+  commentId: P:AppTest.CommandsTests.RectCommandTests.MockCanvas.LastWidth
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastWidth
+  nameWithType: RectCommandTests.MockCanvas.LastWidth
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastWidth*
+  name: LastWidth
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_LastWidth_
+  commentId: Overload:AppTest.CommandsTests.RectCommandTests.MockCanvas.LastWidth
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.LastWidth
+  nameWithType: RectCommandTests.MockCanvas.LastWidth
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect(int, int, bool)
+  fullName.vb: AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: RectCommandTests.MockCanvas.Rect(int, int, bool)
+  nameWithType.vb: RectCommandTests.MockCanvas.Rect(Integer, Integer, Boolean)
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect*
+  name: Rect
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_Rect_
+  commentId: Overload:AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.Rect
+  nameWithType: RectCommandTests.MockCanvas.Rect
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.RectCalled
+  name: RectCalled
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_RectCalled
+  commentId: P:AppTest.CommandsTests.RectCommandTests.MockCanvas.RectCalled
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.RectCalled
+  nameWithType: RectCommandTests.MockCanvas.RectCalled
+- uid: AppTest.CommandsTests.RectCommandTests.MockCanvas.RectCalled*
+  name: RectCalled
+  href: api/AppTest.CommandsTests.RectCommandTests.MockCanvas.html#AppTest_CommandsTests_RectCommandTests_MockCanvas_RectCalled_
+  commentId: Overload:AppTest.CommandsTests.RectCommandTests.MockCanvas.RectCalled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.RectCommandTests.MockCanvas.RectCalled
+  nameWithType: RectCommandTests.MockCanvas.RectCalled
 - uid: AppTest.CommandsTests.TriCommandTests
   name: TriCommandTests
   href: api/AppTest.CommandsTests.TriCommandTests.html
@@ -981,6 +1501,67 @@ references:
   isSpec: "True"
   fullName: AppTest.CommandsTests.TriCommandTests.Execute_WithoutCanvas_ThrowsCommandException
   nameWithType: TriCommandTests.Execute_WithoutCanvas_ThrowsCommandException
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas
+  name: TriCommandTests.MockCanvas
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html
+  commentId: T:AppTest.CommandsTests.TriCommandTests.MockCanvas
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas
+  nameWithType: TriCommandTests.MockCanvas
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastHeight
+  name: LastHeight
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_LastHeight
+  commentId: P:AppTest.CommandsTests.TriCommandTests.MockCanvas.LastHeight
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastHeight
+  nameWithType: TriCommandTests.MockCanvas.LastHeight
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastHeight*
+  name: LastHeight
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_LastHeight_
+  commentId: Overload:AppTest.CommandsTests.TriCommandTests.MockCanvas.LastHeight
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastHeight
+  nameWithType: TriCommandTests.MockCanvas.LastHeight
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastWidth
+  name: LastWidth
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_LastWidth
+  commentId: P:AppTest.CommandsTests.TriCommandTests.MockCanvas.LastWidth
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastWidth
+  nameWithType: TriCommandTests.MockCanvas.LastWidth
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastWidth*
+  name: LastWidth
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_LastWidth_
+  commentId: Overload:AppTest.CommandsTests.TriCommandTests.MockCanvas.LastWidth
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.LastWidth
+  nameWithType: TriCommandTests.MockCanvas.LastWidth
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri(int, int)
+  fullName.vb: AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri(Integer, Integer)
+  nameWithType: TriCommandTests.MockCanvas.Tri(int, int)
+  nameWithType.vb: TriCommandTests.MockCanvas.Tri(Integer, Integer)
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri*
+  name: Tri
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_Tri_
+  commentId: Overload:AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.Tri
+  nameWithType: TriCommandTests.MockCanvas.Tri
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.TriCalled
+  name: TriCalled
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_TriCalled
+  commentId: P:AppTest.CommandsTests.TriCommandTests.MockCanvas.TriCalled
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.TriCalled
+  nameWithType: TriCommandTests.MockCanvas.TriCalled
+- uid: AppTest.CommandsTests.TriCommandTests.MockCanvas.TriCalled*
+  name: TriCalled
+  href: api/AppTest.CommandsTests.TriCommandTests.MockCanvas.html#AppTest_CommandsTests_TriCommandTests_MockCanvas_TriCalled_
+  commentId: Overload:AppTest.CommandsTests.TriCommandTests.MockCanvas.TriCalled
+  isSpec: "True"
+  fullName: AppTest.CommandsTests.TriCommandTests.MockCanvas.TriCalled
+  nameWithType: TriCommandTests.MockCanvas.TriCalled
 - uid: AppTest.ShapesTests
   name: AppTest.ShapesTests
   href: api/AppTest.ShapesTests.html
@@ -1127,6 +1708,45 @@ references:
   fullName.vb: BOOSEGraphicsEnvironment.AppCanvas.New
   nameWithType: AppCanvas.AppCanvas
   nameWithType.vb: AppCanvas.New
+- uid: BOOSEGraphicsEnvironment.AppCanvas.CanvasBitmap
+  name: CanvasBitmap
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_CanvasBitmap
+  commentId: P:BOOSEGraphicsEnvironment.AppCanvas.CanvasBitmap
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.CanvasBitmap
+  nameWithType: AppCanvas.CanvasBitmap
+- uid: BOOSEGraphicsEnvironment.AppCanvas.CanvasBitmap*
+  name: CanvasBitmap
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_CanvasBitmap_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppCanvas.CanvasBitmap
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.CanvasBitmap
+  nameWithType: AppCanvas.CanvasBitmap
+- uid: BOOSEGraphicsEnvironment.AppCanvas.CanvasBorder
+  name: CanvasBorder
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_CanvasBorder
+  commentId: P:BOOSEGraphicsEnvironment.AppCanvas.CanvasBorder
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.CanvasBorder
+  nameWithType: AppCanvas.CanvasBorder
+- uid: BOOSEGraphicsEnvironment.AppCanvas.CanvasBorder*
+  name: CanvasBorder
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_CanvasBorder_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppCanvas.CanvasBorder
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.CanvasBorder
+  nameWithType: AppCanvas.CanvasBorder
+- uid: BOOSEGraphicsEnvironment.AppCanvas.CanvasGraphics
+  name: CanvasGraphics
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_CanvasGraphics
+  commentId: P:BOOSEGraphicsEnvironment.AppCanvas.CanvasGraphics
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.CanvasGraphics
+  nameWithType: AppCanvas.CanvasGraphics
+- uid: BOOSEGraphicsEnvironment.AppCanvas.CanvasGraphics*
+  name: CanvasGraphics
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_CanvasGraphics_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppCanvas.CanvasGraphics
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.CanvasGraphics
+  nameWithType: AppCanvas.CanvasGraphics
 - uid: BOOSEGraphicsEnvironment.AppCanvas.Circle(System.Int32,System.Boolean)
   name: Circle(int, bool)
   href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_Circle_System_Int32_System_Boolean_
@@ -1156,6 +1776,30 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppCanvas.Clear
   nameWithType: AppCanvas.Clear
+- uid: BOOSEGraphicsEnvironment.AppCanvas.DefaultPenColour
+  name: DefaultPenColour
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_DefaultPenColour
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas.DefaultPenColour
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.DefaultPenColour
+  nameWithType: AppCanvas.DefaultPenColour
+- uid: BOOSEGraphicsEnvironment.AppCanvas.DefaultPenWidth
+  name: DefaultPenWidth
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_DefaultPenWidth
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas.DefaultPenWidth
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.DefaultPenWidth
+  nameWithType: AppCanvas.DefaultPenWidth
+- uid: BOOSEGraphicsEnvironment.AppCanvas.DefaultX
+  name: DefaultX
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_DefaultX
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas.DefaultX
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.DefaultX
+  nameWithType: AppCanvas.DefaultX
+- uid: BOOSEGraphicsEnvironment.AppCanvas.DefaultY
+  name: DefaultY
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_DefaultY
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas.DefaultY
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.DefaultY
+  nameWithType: AppCanvas.DefaultY
 - uid: BOOSEGraphicsEnvironment.AppCanvas.Dispose
   name: Dispose()
   href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_Dispose
@@ -1214,6 +1858,22 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppCanvas.PenColour
   nameWithType: AppCanvas.PenColour
+- uid: BOOSEGraphicsEnvironment.AppCanvas.RGB(System.Int32,System.Int32,System.Int32)
+  name: RGB(int, int, int)
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_RGB_System_Int32_System_Int32_System_Int32_
+  commentId: M:BOOSEGraphicsEnvironment.AppCanvas.RGB(System.Int32,System.Int32,System.Int32)
+  name.vb: RGB(Integer, Integer, Integer)
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.RGB(int, int, int)
+  fullName.vb: BOOSEGraphicsEnvironment.AppCanvas.RGB(Integer, Integer, Integer)
+  nameWithType: AppCanvas.RGB(int, int, int)
+  nameWithType.vb: AppCanvas.RGB(Integer, Integer, Integer)
+- uid: BOOSEGraphicsEnvironment.AppCanvas.RGB*
+  name: RGB
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_RGB_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppCanvas.RGB
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppCanvas.RGB
+  nameWithType: AppCanvas.RGB
 - uid: BOOSEGraphicsEnvironment.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
   name: Rect(int, int, bool)
   href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
@@ -1333,6 +1993,30 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppCanvas.Ypos
   nameWithType: AppCanvas.Ypos
+- uid: BOOSEGraphicsEnvironment.AppCanvas._bitmapManager
+  name: _bitmapManager
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas__bitmapManager
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas._bitmapManager
+  fullName: BOOSEGraphicsEnvironment.AppCanvas._bitmapManager
+  nameWithType: AppCanvas._bitmapManager
+- uid: BOOSEGraphicsEnvironment.AppCanvas._pen
+  name: _pen
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas__pen
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas._pen
+  fullName: BOOSEGraphicsEnvironment.AppCanvas._pen
+  nameWithType: AppCanvas._pen
+- uid: BOOSEGraphicsEnvironment.AppCanvas._penColour
+  name: _penColour
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas__penColour
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas._penColour
+  fullName: BOOSEGraphicsEnvironment.AppCanvas._penColour
+  nameWithType: AppCanvas._penColour
+- uid: BOOSEGraphicsEnvironment.AppCanvas._stringFormat
+  name: _stringFormat
+  href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas__stringFormat
+  commentId: F:BOOSEGraphicsEnvironment.AppCanvas._stringFormat
+  fullName: BOOSEGraphicsEnvironment.AppCanvas._stringFormat
+  nameWithType: AppCanvas._stringFormat
 - uid: BOOSEGraphicsEnvironment.AppCanvas.getBitmap
   name: getBitmap()
   href: api/BOOSEGraphicsEnvironment.AppCanvas.html#BOOSEGraphicsEnvironment_AppCanvas_getBitmap
@@ -1409,6 +2093,12 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppForm.AppendCommandLog
   nameWithType: AppForm.AppendCommandLog
+- uid: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay
+  name: CanvasDisplay
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_CanvasDisplay
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.CanvasDisplay
+  fullName: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay
+  nameWithType: AppForm.CanvasDisplay
 - uid: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint(System.Object,System.Windows.Forms.PaintEventArgs)
   name: CanvasDisplay_Paint(object, PaintEventArgs)
   href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_CanvasDisplay_Paint_System_Object_System_Windows_Forms_PaintEventArgs_
@@ -1425,6 +2115,30 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppForm.CanvasDisplay_Paint
   nameWithType: AppForm.CanvasDisplay_Paint
+- uid: BOOSEGraphicsEnvironment.AppForm.CommandLog
+  name: CommandLog
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_CommandLog
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.CommandLog
+  fullName: BOOSEGraphicsEnvironment.AppForm.CommandLog
+  nameWithType: AppForm.CommandLog
+- uid: BOOSEGraphicsEnvironment.AppForm.CommandPrompt
+  name: CommandPrompt
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_CommandPrompt
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.CommandPrompt
+  fullName: BOOSEGraphicsEnvironment.AppForm.CommandPrompt
+  nameWithType: AppForm.CommandPrompt
+- uid: BOOSEGraphicsEnvironment.AppForm.DefaultHeight
+  name: DefaultHeight
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_DefaultHeight
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.DefaultHeight
+  fullName: BOOSEGraphicsEnvironment.AppForm.DefaultHeight
+  nameWithType: AppForm.DefaultHeight
+- uid: BOOSEGraphicsEnvironment.AppForm.DefaultWidth
+  name: DefaultWidth
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_DefaultWidth
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.DefaultWidth
+  fullName: BOOSEGraphicsEnvironment.AppForm.DefaultWidth
+  nameWithType: AppForm.DefaultWidth
 - uid: BOOSEGraphicsEnvironment.AppForm.Dispose(System.Boolean)
   name: Dispose(bool)
   href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_Dispose_System_Boolean_
@@ -1457,6 +2171,25 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppForm.GraphicsForm_Load
   nameWithType: AppForm.GraphicsForm_Load
+- uid: BOOSEGraphicsEnvironment.AppForm.InitializeComponent
+  name: InitializeComponent()
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_InitializeComponent
+  commentId: M:BOOSEGraphicsEnvironment.AppForm.InitializeComponent
+  fullName: BOOSEGraphicsEnvironment.AppForm.InitializeComponent()
+  nameWithType: AppForm.InitializeComponent()
+- uid: BOOSEGraphicsEnvironment.AppForm.InitializeComponent*
+  name: InitializeComponent
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_InitializeComponent_
+  commentId: Overload:BOOSEGraphicsEnvironment.AppForm.InitializeComponent
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.AppForm.InitializeComponent
+  nameWithType: AppForm.InitializeComponent
+- uid: BOOSEGraphicsEnvironment.AppForm.RunButton
+  name: RunButton
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_RunButton
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.RunButton
+  fullName: BOOSEGraphicsEnvironment.AppForm.RunButton
+  nameWithType: AppForm.RunButton
 - uid: BOOSEGraphicsEnvironment.AppForm.RunButton_Click(System.Object,System.EventArgs)
   name: RunButton_Click(object, EventArgs)
   href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_RunButton_Click_System_Object_System_EventArgs_
@@ -1473,6 +2206,79 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.AppForm.RunButton_Click
   nameWithType: AppForm.RunButton_Click
+- uid: BOOSEGraphicsEnvironment.AppForm.compiler
+  name: compiler
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_compiler
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.compiler
+  fullName: BOOSEGraphicsEnvironment.AppForm.compiler
+  nameWithType: AppForm.compiler
+- uid: BOOSEGraphicsEnvironment.AppForm.components
+  name: components
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_components
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.components
+  fullName: BOOSEGraphicsEnvironment.AppForm.components
+  nameWithType: AppForm.components
+- uid: BOOSEGraphicsEnvironment.AppForm.factory
+  name: factory
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_factory
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.factory
+  fullName: BOOSEGraphicsEnvironment.AppForm.factory
+  nameWithType: AppForm.factory
+- uid: BOOSEGraphicsEnvironment.AppForm.formBitmap
+  name: formBitmap
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_formBitmap
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.formBitmap
+  fullName: BOOSEGraphicsEnvironment.AppForm.formBitmap
+  nameWithType: AppForm.formBitmap
+- uid: BOOSEGraphicsEnvironment.AppForm.formCanvas
+  name: formCanvas
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_formCanvas
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.formCanvas
+  fullName: BOOSEGraphicsEnvironment.AppForm.formCanvas
+  nameWithType: AppForm.formCanvas
+- uid: BOOSEGraphicsEnvironment.AppForm.runtime
+  name: runtime
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_runtime
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.runtime
+  fullName: BOOSEGraphicsEnvironment.AppForm.runtime
+  nameWithType: AppForm.runtime
+- uid: BOOSEGraphicsEnvironment.AppForm.splitContainer1
+  name: splitContainer1
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_splitContainer1
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.splitContainer1
+  fullName: BOOSEGraphicsEnvironment.AppForm.splitContainer1
+  nameWithType: AppForm.splitContainer1
+- uid: BOOSEGraphicsEnvironment.AppForm.splitContainer2
+  name: splitContainer2
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_splitContainer2
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.splitContainer2
+  fullName: BOOSEGraphicsEnvironment.AppForm.splitContainer2
+  nameWithType: AppForm.splitContainer2
+- uid: BOOSEGraphicsEnvironment.AppForm.splitContainer3
+  name: splitContainer3
+  href: api/BOOSEGraphicsEnvironment.AppForm.html#BOOSEGraphicsEnvironment_AppForm_splitContainer3
+  commentId: F:BOOSEGraphicsEnvironment.AppForm.splitContainer3
+  fullName: BOOSEGraphicsEnvironment.AppForm.splitContainer3
+  nameWithType: AppForm.splitContainer3
+- uid: BOOSEGraphicsEnvironment.ApplicationConfiguration
+  name: ApplicationConfiguration
+  href: api/BOOSEGraphicsEnvironment.ApplicationConfiguration.html
+  commentId: T:BOOSEGraphicsEnvironment.ApplicationConfiguration
+  fullName: BOOSEGraphicsEnvironment.ApplicationConfiguration
+  nameWithType: ApplicationConfiguration
+- uid: BOOSEGraphicsEnvironment.ApplicationConfiguration.Initialize
+  name: Initialize()
+  href: api/BOOSEGraphicsEnvironment.ApplicationConfiguration.html#BOOSEGraphicsEnvironment_ApplicationConfiguration_Initialize
+  commentId: M:BOOSEGraphicsEnvironment.ApplicationConfiguration.Initialize
+  fullName: BOOSEGraphicsEnvironment.ApplicationConfiguration.Initialize()
+  nameWithType: ApplicationConfiguration.Initialize()
+- uid: BOOSEGraphicsEnvironment.ApplicationConfiguration.Initialize*
+  name: Initialize
+  href: api/BOOSEGraphicsEnvironment.ApplicationConfiguration.html#BOOSEGraphicsEnvironment_ApplicationConfiguration_Initialize_
+  commentId: Overload:BOOSEGraphicsEnvironment.ApplicationConfiguration.Initialize
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.ApplicationConfiguration.Initialize
+  nameWithType: ApplicationConfiguration.Initialize
 - uid: BOOSEGraphicsEnvironment.BitmapManager
   name: BitmapManager
   href: api/BOOSEGraphicsEnvironment.BitmapManager.html
@@ -2144,6 +2950,25 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.IDrawable.Draw
   nameWithType: IDrawable.Draw
+- uid: BOOSEGraphicsEnvironment.Program
+  name: Program
+  href: api/BOOSEGraphicsEnvironment.Program.html
+  commentId: T:BOOSEGraphicsEnvironment.Program
+  fullName: BOOSEGraphicsEnvironment.Program
+  nameWithType: Program
+- uid: BOOSEGraphicsEnvironment.Program.Main
+  name: Main()
+  href: api/BOOSEGraphicsEnvironment.Program.html#BOOSEGraphicsEnvironment_Program_Main
+  commentId: M:BOOSEGraphicsEnvironment.Program.Main
+  fullName: BOOSEGraphicsEnvironment.Program.Main()
+  nameWithType: Program.Main()
+- uid: BOOSEGraphicsEnvironment.Program.Main*
+  name: Main
+  href: api/BOOSEGraphicsEnvironment.Program.html#BOOSEGraphicsEnvironment_Program_Main_
+  commentId: Overload:BOOSEGraphicsEnvironment.Program.Main
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.Program.Main
+  nameWithType: Program.Main
 - uid: BOOSEGraphicsEnvironment.Shapes
   name: BOOSEGraphicsEnvironment.Shapes
   href: api/BOOSEGraphicsEnvironment.Shapes.html
@@ -2229,6 +3054,48 @@ references:
   fullName.vb: BOOSEGraphicsEnvironment.Shapes.PolygonShape.New
   nameWithType: PolygonShape.PolygonShape
   nameWithType.vb: PolygonShape.New
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStart
+  name: AngleStart
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_AngleStart
+  commentId: P:BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStart
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStart
+  nameWithType: PolygonShape.AngleStart
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStart*
+  name: AngleStart
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_AngleStart_
+  commentId: Overload:BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStart
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStart
+  nameWithType: PolygonShape.AngleStart
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStep
+  name: AngleStep
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_AngleStep
+  commentId: P:BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStep
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStep
+  nameWithType: PolygonShape.AngleStep
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStep*
+  name: AngleStep
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_AngleStep_
+  commentId: Overload:BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStep
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.AngleStep
+  nameWithType: PolygonShape.AngleStep
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle(System.Int32)
+  name: CalcAngle(int)
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_CalcAngle_System_Int32_
+  commentId: M:BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle(System.Int32)
+  name.vb: CalcAngle(Integer)
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle(int)
+  fullName.vb: BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle(Integer)
+  nameWithType: PolygonShape.CalcAngle(int)
+  nameWithType.vb: PolygonShape.CalcAngle(Integer)
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle*
+  name: CalcAngle
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_CalcAngle_
+  commentId: Overload:BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.CalcAngle
+  nameWithType: PolygonShape.CalcAngle
 - uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.CreatePoints(System.Single,System.Single)
   name: CreatePoints(float, float)
   href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_CreatePoints_System_Single_System_Single_
@@ -2274,6 +3141,38 @@ references:
   isSpec: "True"
   fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.Sides
   nameWithType: PolygonShape.Sides
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX(System.Single,System.Double)
+  name: VertexX(float, double)
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_VertexX_System_Single_System_Double_
+  commentId: M:BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX(System.Single,System.Double)
+  name.vb: VertexX(Single, Double)
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX(float, double)
+  fullName.vb: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX(Single, Double)
+  nameWithType: PolygonShape.VertexX(float, double)
+  nameWithType.vb: PolygonShape.VertexX(Single, Double)
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX*
+  name: VertexX
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_VertexX_
+  commentId: Overload:BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexX
+  nameWithType: PolygonShape.VertexX
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY(System.Single,System.Double)
+  name: VertexY(float, double)
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_VertexY_System_Single_System_Double_
+  commentId: M:BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY(System.Single,System.Double)
+  name.vb: VertexY(Single, Double)
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY(float, double)
+  fullName.vb: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY(Single, Double)
+  nameWithType: PolygonShape.VertexY(float, double)
+  nameWithType.vb: PolygonShape.VertexY(Single, Double)
+- uid: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY*
+  name: VertexY
+  href: api/BOOSEGraphicsEnvironment.Shapes.PolygonShape.html#BOOSEGraphicsEnvironment_Shapes_PolygonShape_VertexY_
+  commentId: Overload:BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY
+  isSpec: "True"
+  fullName: BOOSEGraphicsEnvironment.Shapes.PolygonShape.VertexY
+  nameWithType: PolygonShape.VertexY
 - uid: BOOSEGraphicsEnvironment.Shapes.RectangleShape
   name: RectangleShape
   href: api/BOOSEGraphicsEnvironment.Shapes.RectangleShape.html
